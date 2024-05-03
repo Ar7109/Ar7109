@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ar7109&label=Profile%20views&color=0e75b6&style=flat" alt="ar7109" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/ankur91011" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/ankur91011?logo=twitter&style=for-the-badge" alt="https://twitter.com/ankur91011" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/ankur91011" target="blank"><a href="https://twitter.com/ankur91011" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" height="30" width="40" /></a></a> </p>
 
 - 🌱 I’m currently learning **advanced techniques in machine learning to further enhance my skills and expand my expertise in data-driven solutions.**
 
