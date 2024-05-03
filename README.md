@@ -8,11 +8,11 @@
     <img src="https://img.shields.io/twitter/follow/ankur91011?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a> 
 </p>
-- 🌱 I’m currently learning **advanced techniques in machine learning to further enhance my skills and expand my expertise in data-driven solutions.**
+- 🌱 **I’m currently learning advanced techniques in machine learning to further enhance my skills and expand my expertise in data-driven solutions.**
 
 - 📫 How to reach me **ankurjvm13@gmail.com**
 
-- ⚡ Fun fact **When I'm not immersed in the world of technology, you can often find me honing my skills on the virtual pitch, dominating opponents in FIFA matches!**
+- ⚡ Fun fact: **When I'm not immersed in the world of technology, you can often find me honing my skills on the virtual pitch, dominating opponents in FIFA matches!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
