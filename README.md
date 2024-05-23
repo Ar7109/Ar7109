@@ -31,9 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ar7109&" alt="ar7109" /></p>
 
-<h2 align="center">Tublian Streetcred: Coding Mastery, Proven Trust</h2>
-  <p align="center">
-    <a href="https://tublian.com/profile/Ar7109">
-      <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/Ar7109?type=with_score" alt="Streetcred">
-    </a>
-  </p>
+
