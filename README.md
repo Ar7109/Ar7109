@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ankur</h1>
+<h1 align="center">Hi 👋, I'm Ankur <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" height="200" width="200" />
+</a></h1><a href="https://www.linkedin.com/in/ankur-815277262/" target="_blank">
+
 <h3 align="center">Tech enthusiast and problem-solver driven by innovation, aspiring to engineer transformative solutions in Bengaluru, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ar7109&label=Profile%20views&color=0e75b6&style=flat" alt="ar7109" /> </p>
