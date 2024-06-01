@@ -9,7 +9,11 @@
 
 <p align="left"> 
   <a href="https://twitter.com/ankur91011" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/ankur91011?logo=twitter&style=for-the-badge" alt="Twitter" />
+    <div style="display: inline-flex; align-items: center; background-color: #f0f0f0; padding: 5px 10px; border-radius: 5px;">
+      <img src="https://img.shields.io/twitter/follow/ankur91011?logo=twitter&style=for-the-badge" alt="Twitter" style="vertical-align: middle;" />
+      <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Animated GIF" width="40" height="40" 
+           style="vertical-align: middle; margin-left: 10px;" />
+    </div>
   </a> 
 </p>
 
