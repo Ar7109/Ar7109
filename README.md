@@ -1,6 +1,6 @@
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" />
-<h1 align="center">Hi 👋, I'm Ankur <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" height="200" width="200" />
+<h1 align="center">Hi 👋, I'm Ankur 
 </a></h1><a href="https://www.linkedin.com/in/ankur-815277262/" target="_blank">
 
 <h3 align="center">Tech enthusiast and problem-solver driven by innovation, aspiring to engineer transformative solutions in Bengaluru, India.</h3>
@@ -16,6 +16,7 @@
     </div>
   </a> 
 </p>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" height="300" width="300" />
 
 - 🌱 I’m currently learning **advanced techniques in machine learning to further enhance my skills and expand my expertise in data-driven solutions.**
 
